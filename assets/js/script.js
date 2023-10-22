@@ -261,8 +261,6 @@ const propiedades_venta = [
                 let indice = 0;
                
                 
-                    
-
                         for (let propiedad of propiedades_venta) {
                        
                         templatev += `
